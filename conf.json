@@ -1,0 +1,17 @@
+{
+    "show_video": true,
+    "use_email_notification": true,
+    "email": "pi.telematica.lab@gmail.com",
+    "email_password": "pi.222222pi",
+    "email_receiver": "WRITE HERE THE RECEIVER'S EMAIL ADDRESS",
+    "email_subject": "[Pi Security System] - Movimento relevato!",
+    "email_text_content": "Avviso importante: è stato relevato un movimento!",
+    "min_upload_seconds": 8,
+    "min_notify_seconds": 20,
+    "min_motion_frames": 8,
+    "camera_warmup_time": 2,
+    "delta_thresh": 5,
+    "resolution": [640,480],
+    "fps": 16,
+    "min_area": 5000
+}
